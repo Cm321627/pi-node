@@ -1,3 +1,3 @@
-# pi-node
-
-Latest version: 0.5.1
+＃PI节点
+最新版本：0.5.1
+https://github.com/cm321627/pi-node/commit/55E757B23047A9EB67407073B0163AD6B567F9B8
